@@ -1,4 +1,4 @@
-[![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmaGtlrWxrbQ.jpg)
+![MasterHead](https://images.wallpapersden.com/image/download/programmer-eat-sleep-code-and-repeat_bG1rbWWUmZqaraWkpJRmaGtlrWxrbQ.jpg)
 <h1 align="center">Hi 👋, I'm Sarthak Singh Tomar</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="300" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47nbc5xp1boioema8s8pcls6xjlw0mjpj9op8mj3ho&rid=giphy.gif&ct=g">
